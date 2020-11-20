@@ -1,6 +1,6 @@
 import { Button } from "@material-ui/core";
 import { VpnKey } from "@material-ui/icons";
-import React, { useRef } from "react";
+import React from "react";
 
 import MyInputText from "../../../my/MyForm/MyInputText/MyInputText";
 import WrapperLoginRegister from "../../../wrappers/WrapperLoginRegister/WrapperLoginRegister";
